@@ -1,4 +1,4 @@
-import { dev_requestDomain, requestDomain } from "../utils/url";
+import { dev_requestDomain } from "../utils/url";
 
 interface Props {
   symbol: string;
