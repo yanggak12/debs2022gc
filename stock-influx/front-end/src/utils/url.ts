@@ -1,1 +1,1 @@
-export const dev_requestDomain = process.env.NEXT_PUBLIC_VERCEL_ENV;
+export const dev_requestDomain = process.env.NEXT_PUBLIC_API_URL;
